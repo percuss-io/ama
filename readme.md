@@ -1,4 +1,4 @@
-![percuss.io Logo](logo.svg)
+![percuss.io Logo](logo.png)
 
 # Ask me (us) anything!
 
